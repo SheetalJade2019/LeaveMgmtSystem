@@ -1,0 +1,32 @@
+{% extends "leave/base.html" %}
+
+{% block side %}
+<p></p>
+{% endblock side %}
+
+{% block content %}
+
+<div class="">
+  {% if messages%}
+  {% for msg in messages %}
+  {{msg}}
+  {% endfor %}
+  {% endif %}
+  <div class="">
+    <div class="text text-center jumbotron ">
+      <h3> Leave Application Form</h3>
+      <form class="" action="" method="post" novalidate>
+        {% csrf_token %}
+          {% for fm in form %}
+              <div class="form-group">
+                {{fm.label_tag}} {{fm.errors|striptags}} <br>
+                {{fm}}
+              </div>
+          {% endfor %}
+          <input class=" btn btn-primary" type="submit" value="Submit">
+          <input class=" btn btn-secondary" type="submit" value="Cancel">
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock content %}

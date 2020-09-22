@@ -1,0 +1,50 @@
+{% extends 'leave/base.html' %}
+
+{% block content %}
+<div class="container-fluid">
+  <div class="registerpara">
+      <h1 class="text-center py-5">See Your Leave Application Status Here</h1>
+      <table class="table">
+        <thead>
+            <tr>
+              <th>Username</th>
+              <th>Email</th>
+              <th>Leave From</th>
+              <th>Leave Balance</th>
+              <th>Leave Days</th>
+              <th>Leave Status</th>
+              <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+          {% for each in ldetails %}
+            <tr>
+              <th scope="row">{{each.id}}</th>
+              <td>{{each.username}}</td>
+              <td>{{each.email}}</td>
+              <td>{{each.leave_from}}</td>
+              <td>{{each.leave_bal}}</td>
+              <td>{{each.leave_days}}</td>
+              <td>{{each.leave_status}}</td>
+              <td>
+                  <form class="" action="/approve/{{each.id}}/" method="post">
+                    {% csrf_token %}
+                    <input type="submit" class="btn btn-warning" name="approve" value="Approve">
+                  </form>
+
+                  <form class="" action="/decline/{{each.id}}/" method="post">
+                    {% csrf_token %}
+                    <input type="submit" class="btn btn-danger" name="decline" value="Decline">
+                  </form>
+
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+  </div>
+</div>
+
+
+{% endblock content %}
