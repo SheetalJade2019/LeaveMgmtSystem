@@ -47,8 +47,8 @@ Before executing this project, you must have
 # Authors
 
     Sheetal Jade 
-    Github link : https://github.com/SheetalJade2019
-    Linkedin link : http://www.linkedin.com/in/sheetal2019
+    [Github Profile](https://github.com/SheetalJade2019)
+    [Linkedin Profile](http://www.linkedin.com/in/sheetal2019)
     
 # Acknowledgments
 
