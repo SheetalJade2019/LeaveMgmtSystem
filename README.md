@@ -1,61 +1,55 @@
-# LeaveMgmtSystem
-Django Project
-# Project Title
-One Paragraph of project description goes here
 
-# Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+# Leave Management System Using Django
+
+    The Leave Management System is a wweb application which can be used to automate leave application and approval process. In this project, i have implemented complete  authentication system and CRUD operations. Front end work is done with HTML, CSS, Bootstrap and at backend Python's web Framework Django is used. It has built in support for SQLite database. 
+
+# Overview
+
+# Steps to run project
+
+1) Donwload and install 
+
+       Python : https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+       Django : https://docs.djangoproject.com/en/1.8/howto/windows/
+       Rest Framework : https://www.django-rest-framework.org/#installation
+
+2) Download Leave Management System Project. 
+
+       https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository 
+       link to my project : https://github.com/SheetalJade2019/LeaveMgmtSystem.git
+
+3) Open command prompt. Change directory to Leave Management System. Run command
+
+       python manage.py runserver
+    
+       if you see following text then your web applications is started
+       ![alt text](http://url/to/img.png)
+    
+#      add runlms
 
 # Prerequisites
-What things you need to install the software and how to install them
+Before executing this project, you must have 
 
-# Give examples
-# Installing
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-# Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-# Deployment
-Add additional notes about how to deploy this on a live system
+    Django==3.0.8
+    djangorestframework==3.11.1
+    Python==3.7.2
 
 # Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-# Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+    Django - Python's Web Framework
 
 # Versioning
-Django==3.0.8
-djangorestframework==3.11.1
-Python==3.7.2
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+
+    Django==3.0.8
+    djangorestframework==3.11.1
+    Python==3.7.2
 
 # Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
 
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
+    Sheetal Jade 
+    Github link : https://github.com/SheetalJade2019
+    Linkedin link : http://www.linkedin.com/in/sheetal2019
+    
 # Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+
+    A very big thank you to those who helped, inspired and guided me directly and indirectly.
