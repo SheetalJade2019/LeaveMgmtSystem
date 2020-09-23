@@ -23,7 +23,7 @@
        python manage.py runserver
     
        if you see following text then your web applications is started
-       ![alt text](http://url/to/img.png)
+       ![alt text](https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png)
     
 #      add runlms
 
@@ -38,13 +38,7 @@ Before executing this project, you must have
 
     Django - Python's Web Framework
 
-# Versioning
-
-    Django==3.0.8
-    djangorestframework==3.11.1
-    Python==3.7.2
-
-# Authors
+# Author
 
     Sheetal Jade 
     [Github Profile](https://github.com/SheetalJade2019)
