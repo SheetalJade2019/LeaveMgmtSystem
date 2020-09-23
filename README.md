@@ -23,7 +23,8 @@
        python manage.py runserver
     
        if you see following text then your web applications is started
-       ![alt text](https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png)
+       
+       <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png" alt=" " width="500" height="600">
     
 #      add runlms
 
