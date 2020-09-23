@@ -43,6 +43,9 @@ ROME - Used to generate RSS Feeds
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 # Versioning
+Django==3.0.8
+djangorestframework==3.11.1
+Python==3.7.2
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 # Authors
