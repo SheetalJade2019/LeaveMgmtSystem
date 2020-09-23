@@ -5,6 +5,9 @@
 
 # Overview
 
+        In Leave Management System, User will have to register himself first. After successful completion of registration he can login to web application to access data. This was simple authentication of user. The screenshots of this process are as follows
+        
+
 # Steps to run project
 
 1) Donwload and install 
@@ -23,11 +26,10 @@
        python manage.py runserver
     
        if you see following text then your web applications is started
+       ![alt text](https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png?raw=true)
        
        <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png" alt=" " width="500" height="600">
     
-#      add runlms
-
 # Prerequisites
 Before executing this project, you must have 
 
