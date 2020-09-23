@@ -7,6 +7,18 @@
 
         In Leave Management System, User will have to register himself first. After successful completion of registration he can login to web application to access data. This was simple authentication of user. The screenshots of this process are as follows
         
+        # Home
+        ![alt text](ScreenShots/Screenshot (2).png)
+        
+        # Register
+        ![alt text]()
+        
+        # Login
+        ![alt text]()
+        
+        
+        
+        
 
 # Steps to run project
 
