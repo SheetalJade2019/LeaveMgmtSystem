@@ -1,23 +1,38 @@
 
 # Leave Management System Using Django
 
-    The Leave Management System is a wweb application which can be used to automate leave application and approval process. In this project, i have implemented complete  authentication system and CRUD operations. Front end work is done with HTML, CSS, Bootstrap and at backend Python's web Framework Django is used. It has built in support for SQLite database. 
+    The Leave Management System is a wweb application which can be used to automate leave application and approval process. 
+    
+    In this project, i have implemented complete  authentication system with two roles employee and manager. Used CRUD operation to access SQLite database. 
+    
+    Front end work is done with HTML, CSS, Bootstrap and at backend Python's web Framework Django is used. It has built in support for SQLite database. 
 
 # Overview
 
-        In Leave Management System, User will have to register himself first. After successful completion of registration he can login to web application to access data. This was simple authentication of user. The screenshots of this process are as follows
+        In Leave Management System, User will have to register himself first. After successful completion of registration he can login to web application to access data.
         
-        # Home
-        ![alt text](ScreenShots/Screenshot (2).png)
+        This was simple authentication of user. The screenshots of this process are as follows
         
-        # Register
-        ![alt text]()
+                    # Home
+                    ![alt text](ScreenShots/Screenshot (2).png)
+
+                    # Register
+                    ![alt text](ScreenShots/Screenshot (5).png)
+
+                    # Login
+                    ![alt text](ScreenShots/Screenshot (6).png)
         
-        # Login
-        ![alt text]()
+        Once user logged in, he will be redirected to leave status page. leave status page is shown below
         
+                    # Leave Status
+                    ![alt text](ScreenShots/Screenshot (7).png)
         
+        To apply for leave, user have to go to "Apply For Leave" tab in navbar. 
         
+                    # Apply For Leave
+                    ![alt text]('https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(8).png')
+        
+        Then Only Manager can Approve or Decline leave. Once leave is approves total number of available leaves are calculated at backend and displayed in leave status table 
         
 
 # Steps to run project
