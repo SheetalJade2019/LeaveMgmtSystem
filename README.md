@@ -13,29 +13,29 @@
         
    *    This was simple authentication of user. The screenshots of this process are as follows
 
-   ## Home
+   ### Home
    
    <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(2).png" align="center" width="700" height="400">
    
-   ## Register
+   ### Register
    
    <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(5).png" align="center" width="700" height="400">
 
-   ## Login
+   ### Login
    
    <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(6).png" align="center" width="700" height="400">
         
    *    Once user logged in, he will be redirected to leave status page. leave status page is shown below
         
-   ## Leave Status
+   ### Leave Status
                   
-   <img src="" align="center" width="700" height="400">
+   <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(7).png" align="center" width="700" height="400">
         
    *    To apply for leave, user have to go to "Apply For Leave" tab in navbar. 
         
-   ## Apply For Leave
+   ### Apply For Leave
    
-   <img src="" align="center" width="700" height="400">
+   <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(8).png" align="center" width="700" height="400">
         
    *    Then Only Manager can Approve or Decline leave. Once leave is approves total number of available leaves are calculated at backend and displayed in leave status table 
 
@@ -51,38 +51,37 @@ Before executing this project, you must have
 
 1.  Donwload and install 
 
-       *    Python : https://www.howtogeek.com/197947/how-to-install-python-on-windows/
-       *    Django : https://docs.djangoproject.com/en/1.8/howto/windows/
-       *    Rest Framework : https://www.django-rest-framework.org/#installation
+       *    Python : [How to download and install Python?](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
+       *    Django : [How to download and install Django?](https://docs.djangoproject.com/en/1.8/howto/windows/)
+       *    Rest Framework : [How to download and install REST Framework?](https://www.django-rest-framework.org/#installation)
 
 2.  Download Leave Management System Project. 
 
-       how to clone repository :https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository 
-       link to my project : https://github.com/SheetalJade2019/LeaveMgmtSystem.git
-       [GitHub](http://github.com)
+       *  [how to clone repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) 
+       *  [link to my project](https://github.com/SheetalJade2019/LeaveMgmtSystem.git)
+       
 
-3.  Open command prompt. Change directory to Leave Management System. Run command
+3.  Open command prompt. Change directory to Leave Management System. 
 
-       python manage.py runserver
+       *  Run command
+       
+            *python manage.py runserver
     
-       if you see following text then your web applications is started
-       ![alt text](https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png?raw=true)
-       ![alt text](https://user-images.githubusercontent.com/61681150/94037695-3eb9f800-fde3-11ea-99f9-ae5e5be7b636.png)
-       https://user-images.githubusercontent.com/61681150/94037695-3eb9f800-fde3-11ea-99f9-ae5e5be7b636.png
-      <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png" align="center" width="600" height="300">
-    
+       *  if you see following text then your web applications is started
+ 
+          <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png" align="center" width="600" height="300">
 
 # Built With
 
-    Django - Python's Web Framework
+   *  Django - Python's Web Framework
 
 # Author
 
-    Sheetal Jade 
-    [Github Profile](https://github.com/SheetalJade2019)
-    [Linkedin Profile](http://www.linkedin.com/in/sheetal2019)
+   Sheetal Jade 
+   *  [Github Profile](https://github.com/SheetalJade2019)
+   *  [Linkedin Profile](http://www.linkedin.com/in/sheetal2019)
     
 # Acknowledgments
 
-    A very big thank you to those who helped, inspired and guided me directly and indirectly.
+   A very big thank you to those who helped, inspired and guided me directly and indirectly.
     
