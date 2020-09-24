@@ -55,7 +55,7 @@
        if you see following text then your web applications is started
        ![alt text](https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png?raw=true)
        ![alt text](https://user-images.githubusercontent.com/61681150/94037695-3eb9f800-fde3-11ea-99f9-ae5e5be7b636.png)
-       
+       https://user-images.githubusercontent.com/61681150/94037695-3eb9f800-fde3-11ea-99f9-ae5e5be7b636.png
        <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/runlms.png" alt=" " width="500" height="600">
     
 # Prerequisites
