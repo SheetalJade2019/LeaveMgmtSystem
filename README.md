@@ -15,13 +15,13 @@
         ![CBPM](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CBPM.png)
 
                     # Home
-   ![alt text](ScreenShots/Screenshot (2).png)
+   <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(2).png" align="center" width="700" height="400">
    
                     # Register
-   ![alt text](ScreenShots/Screenshot (5).png)
+   <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(5).png" align="center" width="700" height="400">
 
                     # Login
-   ![alt text](ScreenShots/Screenshot (6).png)
+   <img src="https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(6).png" align="center" width="700" height="400">
         
         Once user logged in, he will be redirected to leave status page. leave status page is shown below
         
