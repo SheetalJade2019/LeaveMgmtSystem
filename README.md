@@ -31,7 +31,7 @@
         To apply for leave, user have to go to "Apply For Leave" tab in navbar. 
         
                     # Apply For Leave
-                    ![alt text]('https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(8).png')
+   ![alt text]('https://github.com/SheetalJade2019/LeaveMgmtSystem/blob/master/ScreenShots/Screenshot%20(8).png')
         
         Then Only Manager can Approve or Decline leave. Once leave is approves total number of available leaves are calculated at backend and displayed in leave status table 
         
