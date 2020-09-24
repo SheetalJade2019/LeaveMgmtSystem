@@ -12,16 +12,16 @@
         In Leave Management System, User will have to register himself first. After successful completion of registration he can login to web application to access data.
         
         This was simple authentication of user. The screenshots of this process are as follows
-        
-                    # Home
-                    ![alt text](ScreenShots/Screenshot (2).png)
-   ![CBPM](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CBPM.png)
+        ![CBPM](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CBPM.png)
 
+                    # Home
+   ![alt text](ScreenShots/Screenshot (2).png)
+   
                     # Register
-                    ![alt text](ScreenShots/Screenshot (5).png)
+   ![alt text](ScreenShots/Screenshot (5).png)
 
                     # Login
-                    ![alt text](ScreenShots/Screenshot (6).png)
+   ![alt text](ScreenShots/Screenshot (6).png)
         
         Once user logged in, he will be redirected to leave status page. leave status page is shown below
         
