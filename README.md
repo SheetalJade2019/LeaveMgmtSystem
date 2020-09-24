@@ -15,7 +15,7 @@
         
                     # Home
                     ![alt text](ScreenShots/Screenshot (2).png)
-                    ![CBPM](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CBPM.png)
+   ![CBPM](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CBPM.png)
 
                     # Register
                     ![alt text](ScreenShots/Screenshot (5).png)
