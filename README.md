@@ -78,3 +78,5 @@ Before executing this project, you must have
 # Acknowledgments
 
     A very big thank you to those who helped, inspired and guided me directly and indirectly.
+    
+    It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
